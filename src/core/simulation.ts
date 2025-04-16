@@ -3,8 +3,7 @@ import { ForceType, Projectile } from "../objects/projectile.js";
 import { Canvas } from "../rendering/canvas.js";
 import { Loop } from "./loop.js";
 import { Obstacle } from "../objects/obstacle.js";
-import { Rope as Constraint, Rope, Spring } from "../objects/contraints.js";
-import { GraphHandler } from "../graphing/graphHandler.js";
+import { Rope, Spring, Constraint } from "../objects/contraints.js";
 import { Camera } from "../rendering/camera.js";
 import { InputHandler } from "../interfacing/inputhandler.js";
 
